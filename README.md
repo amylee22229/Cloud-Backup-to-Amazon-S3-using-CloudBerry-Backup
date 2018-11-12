@@ -28,7 +28,7 @@ This document guide you the step of backup solution which provided by APN Storag
 
 2.7. Expand the **Access keys (access key ID and secret access key)** option. You will see the list of your active and deleted access keys.
 
-2.8. To generate new access keys, click the Create New Access Key button.
+2.8. To generate new access keys, click the **Create New Access Key button**.
 
 2.9. Click **Show Access Key** to have it displayed on the screen. You can download it to your machine as a file and open it whenever needed. To download it, just click the **Download Key File** button. 
 
