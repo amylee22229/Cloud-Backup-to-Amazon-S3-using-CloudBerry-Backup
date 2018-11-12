@@ -5,6 +5,7 @@ This document guide you the step of backup solution which provided by APN Storag
 
 ## Prerequisites
 > An AWS account.
+
 > CloudBerry Backup License (The license fee depends on the OS you use, and is per computer, one time fee) or using 15-day free trial.
 
 ## Tutorial
